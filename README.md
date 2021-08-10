@@ -18,16 +18,22 @@ Challenge | Solution
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Script] ()
 [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Script] ()
 
-2. ** **
+2. **Basic Data Types**
 
 Challenge | Solution
 ------------ | -------------
-[]() | [Script] ()
+[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Script] ()
+[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Script] ()
+[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [Script] ()
+[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Script] ()
+[Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Script] ()
+[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Script] ()
 
 3. ** **
 
 Challenge | Solution
 ------------ | -------------
+[]() | [Script] ()
 []() | [Script] ()
 
 4. ** **
@@ -35,11 +41,13 @@ Challenge | Solution
 Challenge | Solution
 ------------ | -------------
 []() | [Script] ()
+[]() | [Script] ()
 
 5. ** **
 
 Challenge | Solution
 ------------ | -------------
+[]() | [Script] ()
 []() | [Script] ()
 
 6. ** **
@@ -47,9 +55,11 @@ Challenge | Solution
 Challenge | Solution
 ------------ | -------------
 []() | [Script] ()
+[]() | [Script] ()
 
 7. ** **
 
 Challenge | Solution
 ------------ | -------------
+[]() | [Script] ()
 []() | [Script] ()
