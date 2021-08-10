@@ -35,12 +35,24 @@ Challenge | Solution
 
 ** **
 
-3. ** **
+3. **Strings**
 
 Challenge | Solution
 ------------ | -------------
-[]() | [Script] ()
-[]() | [Script] ()
+[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Script] ()
+[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Script] ()
+[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Script] ()
+[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Script] ()
+[Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Script] ()
+[String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [Script] ()
+[Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [Script] ()
+[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [Script] ()
+[Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Script] ()
+[String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Script] ()
+[Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Script] ()
+[Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Script] ()
+[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Script] ()
+[Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Script] ()
 
 4. ** **
 
