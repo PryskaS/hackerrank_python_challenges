@@ -6,6 +6,8 @@
 ## SPECIALIZED SKILLS on Hackerrank
 Solutions of the HackerRank's Python challenges
 
+** **
+
 1. **Introduction** 
 
 Challenge | Solution
@@ -18,6 +20,8 @@ Challenge | Solution
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Script] ()
 [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Script] ()
 
+** **
+
 2. **Basic Data Types**
 
 Challenge | Solution
@@ -28,6 +32,8 @@ Challenge | Solution
 [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Script] ()
 [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Script] ()
 [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Script] ()
+
+** **
 
 3. ** **
 
