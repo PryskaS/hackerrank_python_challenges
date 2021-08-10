@@ -117,6 +117,8 @@ Challenge | Solution
 []() | [Script] ()
 []() | [Script] ()
 
+** **
+
 8. ** **
 
 Challenge | Solution
@@ -129,6 +131,8 @@ Challenge | Solution
 []() | [Script] ()
 []() | [Script] ()
 []() | [Script] ()
+
+** **
 
 9. ** **
 
@@ -143,6 +147,8 @@ Challenge | Solution
 []() | [Script] ()
 []() | [Script] ()
 
+** **
+
 10. ** **
 
 Challenge | Solution
@@ -155,6 +161,8 @@ Challenge | Solution
 []() | [Script] ()
 []() | [Script] ()
 []() | [Script] ()
+
+** **
 
 11. ** **
 
