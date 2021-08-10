@@ -54,30 +54,117 @@ Challenge | Solution
 [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Script] ()
 [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Script] ()
 
-4. ** **
+** **
+
+4. **Sets**
 
 Challenge | Solution
 ------------ | -------------
 []() | [Script] ()
 []() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
 
-5. ** **
+** **
+
+5. **Math**
 
 Challenge | Solution
 ------------ | -------------
 []() | [Script] ()
 []() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
 
-6. ** **
+** **
+
+6. **Itertools**
 
 Challenge | Solution
 ------------ | -------------
 []() | [Script] ()
 []() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
 
-7. ** **
+** **
+
+7. **Collections**
 
 Challenge | Solution
 ------------ | -------------
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+
+8. ** **
+
+Challenge | Solution
+------------ | -------------
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+
+9. ** **
+
+Challenge | Solution
+------------ | -------------
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+
+10. ** **
+
+Challenge | Solution
+------------ | -------------
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+
+11. ** **
+
+Challenge | Solution
+------------ | -------------
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
+[]() | [Script] ()
 []() | [Script] ()
 []() | [Script] ()
