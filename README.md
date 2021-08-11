@@ -12,7 +12,7 @@ Solutions of the HackerRank's Python challenges
 
 Challenge | Solution
 ------------ | -------------
-[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Script] ()
+[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Script] (https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/1%20-%20Say%20Hello%2C%20World!%20With%20Python.py)
 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [Script] ()
 [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Script] ()
 [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [Script] ()
