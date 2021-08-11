@@ -156,8 +156,6 @@ Challenge | Solution
 [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [Script] ()
 [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem) | [Script] ()
 [ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [Script] ()
-[]() | [Script] ()
-[]() | [Script] ()
 
 ** **
 
