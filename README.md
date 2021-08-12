@@ -15,7 +15,7 @@ Challenge | Solution
 [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Script](https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/1%20-%20Say%20Hello%2C%20World!%20With%20Python.py)
 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [Script](https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/2%20-%20Python%20If-Else.py)
 [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Script](https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/3%20-%20Arithmetic%20Operators.py)
-[Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [Script] (https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/4%20-%20Python%20-%20Division.py)
+[Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [Script](https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/4%20-%20Python%20-%20Division.py)
 [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Script] ()
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Script] ()
 [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Script] ()
