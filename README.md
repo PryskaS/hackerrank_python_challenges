@@ -229,7 +229,7 @@ Challenge | Solution
 [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [Script] ()
 [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [Script] ()
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | [Script] ()
-[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Script] ()
+[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Script]()
 
 ** **
 
