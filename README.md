@@ -18,7 +18,7 @@ Challenge | Solution
 [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [Script](https://github.com/PryskaS/hackerrank_python_challenges/blob/main/1.%20Introduction/4%20-%20Python%20-%20Division.py)
 [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Script] ()
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Script] ()
-[Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Script] ()
+[Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Script]()
 
 ** **
 
